@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="12" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="13" pc="268435468" symbol="initialize"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="18" pc="268435489" symbol="onLayout"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="20" pc="268435499" symbol="onLayout"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="22" pc="268435536" symbol="onLayout"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="23" pc="268435579" symbol="onLayout"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="27" pc="268435625" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="29" pc="268435643" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="30" pc="268435657" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="31" pc="268435693" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="33" pc="268435706" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="34" pc="268435742" symbol="toggle"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="47" pc="268435758" symbol="onUpdate"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="49" pc="268435786" symbol="onUpdate"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="50" pc="268435806" symbol="onUpdate"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="51" pc="268435834" symbol="onUpdate"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="53" pc="268435877" symbol="onUpdate"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="57" pc="268435913" symbol="lightOn"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozView.mc" lineNum="58" pc="268435931" symbol="lightOn"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozDelegate.mc" lineNum="10" pc="268435973" symbol="initialize"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozDelegate.mc" lineNum="17" pc="268435986" symbol="onTap"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozDelegate.mc" lineNum="18" pc="268436004" symbol="onTap"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozApp.mc" lineNum="6" pc="268436010" symbol="initialize"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozApp.mc" lineNum="19" pc="268436037" symbol="getInitialView"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozApp.mc" lineNum="20" pc="268436061" symbol="getInitialView"/>
+<entry filename="/Users/johanrunesson/Development/Eclipse/Baskaboz/source/BaskabozApp.mc" lineNum="21" pc="268436087" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="11" symbol="currentView"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry id="16" method="true" symbol="toggle"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="isLightOn"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="13" symbol="lightOffImg"/>
+<entry field="true" id="12" symbol="lightOnImg"/>
+<entry id="9" object="true" symbol="BaskabozDelegate"/>
+<entry field="true" id="15" symbol="this"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="17" method="true" symbol="lightOn"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="10" object="true" symbol="BaskabozApp"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="22" method="true" symbol="MainLayout"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="20" symbol="lightOff"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8" object="true" symbol="BaskabozView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435910" name="loadTimer" stackId="2" startPc="268435758"/>
+<entry endPc="268436114" name="view" stackId="1" startPc="268436037"/>
+<entry endPc="268436114" name="delegate" stackId="2" startPc="268436037"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BaskabozView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BaskabozView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="toggle" parent="BaskabozView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="BaskabozView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BaskabozView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="lightOn" parent="BaskabozView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="BaskabozView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="BaskabozDelegate">
+<param id="view"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> courseDto The course DTO to parse</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onTap" parent="BaskabozDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BaskabozApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BaskabozApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="BaskabozApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BaskabozApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
